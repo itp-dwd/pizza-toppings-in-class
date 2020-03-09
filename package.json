@@ -1,0 +1,17 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "Backend workbook",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "Cassie Tarakajian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "metal-name": "^1.3.1",
+    "nedb": "^1.8.0"
+  }
+}
